@@ -1,0 +1,10 @@
+# Dataset DAiSEE (15 GB), tidak di-push
+Data/DAiSEE/
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Cadangan lokal dan dokumen laporan, tidak di-push
+outputs/
+Document/*.docx
